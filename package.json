@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "http-proxy": "^1.17.0"
+    "http-proxy": "^1.17.0",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
